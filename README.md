@@ -1,1 +1,1 @@
-# skill_-development_project
+# skill_development_project
